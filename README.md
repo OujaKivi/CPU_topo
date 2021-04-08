@@ -1,5 +1,5 @@
 # CPU_topo
-基于多叉树结构的CPU布局识别
+CPU结构识别
 
 tips：
 1. 运行cpu_topo.py开始识别（需指定远程主机IP、用户名与密码等信息）。
